@@ -1,0 +1,3 @@
+[submodule "microsoft-graph-docs"]
+	path = microsoft-graph-docs
+	url = https://github.com/microsoftgraph/microsoft-graph-docs
