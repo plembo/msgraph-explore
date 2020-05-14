@@ -13,5 +13,4 @@ Local copy of that repository is [here](microsoft-graph-docs/README.md).
 4. [What's new in Microsoft Graph](https://docs.microsoft.com/en-us/graph/whats-new-overview)
 5. [Users you can reach with Microsoft Graph](https://docs.microsoft.com/en-us/graph/users-you-can-reach)
 6. [Microsoft Graph Data Connect](https://docs.microsoft.com/en-us/graph/data-connect-overview)
-7. [Build our first server-side app - Node.js](https://docs.microsoft.com/en-us/graph/tutorials/node)
 
